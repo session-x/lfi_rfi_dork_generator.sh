@@ -1,9 +1,3 @@
-Certainly! Below is a **README** file template for the Bash script you requested. This file provides an overview of what the script does, how to use it, and other important details.
-
----
-
-## **README: LFI/RFI Dork Generator Bash Script**
-
 ### **Description**
 
 The **LFI/RFI Dork Generator Bash Script** is a tool that generates Google Dork search URLs specifically for identifying **File Inclusion Vulnerabilities** (Local File Inclusion - LFI, and Remote File Inclusion - RFI) in web applications. These vulnerabilities are often found in PHP applications where improper input validation allows an attacker to include local or remote files, potentially leading to serious security breaches such as code execution, data theft, and website defacement.
